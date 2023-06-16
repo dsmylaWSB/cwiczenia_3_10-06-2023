@@ -1,27 +1,4 @@
-﻿//Console.WriteLine("Pomyśl o liczbie naturalnej z przedziału 1-20. \n\nJa będę zgadywać, jeśli moja propozycja jest mniejsza od twojej liczby, wpisz liczbę mniejszą od zera, \na jeśli jest większa to dodatnią. Jeżeli odgadnę liczbę, wpisz 0.");
-
-//int a = 10;
-//Console.WriteLine(a + "?");
-
-//while (true)
-//{
-//    int odpowiedz = int.Parse(Console.ReadLine());
-//    if (odpowiedz > 0)
-//    {
-
-//    }
-//    if else (odpowiedz < 0)
-//    {
-
-//    }
-//    else
-//    {
-//        Console.WriteLine("ez");
-//    }
-//}
-
-
-// wejście czyli przyjmujemy wartość
+﻿// wejście czyli przyjmujemy wartość
 // jeżeli ujemna to mniejsza
 // jeżeli dodatnia to większa
 // zero return
